@@ -9,7 +9,6 @@ pkg_source="http://mirror.ox.ac.uk/sites/rsync.apache.org/jmeter/binaries/${pkg_
 pkg_bin_dirs=("bin")
 pkg_shasum="5474567e9daf28a21e936f08450819cc69f985f32e8090ec5829c6261ec8c1d8"
 
-
 do_build()
 {
   return 0
